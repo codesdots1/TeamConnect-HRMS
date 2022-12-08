@@ -1,0 +1,44 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+
+$lang['emp_no']          		 = 'Emp.NO';
+$lang['emp_name']            	 = 'Emp.Name';
+$lang['designation']             = 'Designation';
+$lang['pf_no']           	 	 = 'P.F. NO';
+$lang['bank']        		     = 'BANK';
+$lang['esi_no']        		     = 'ESI NO';
+$lang['doj']            		 = 'D.O.J';
+$lang['working_details']         = 'WORKING DETAILS';
+$lang['earning_details']         = 'EARNING DETAILS';
+$lang['deduction_details']       = 'DEDUCTION DETAILS';
+$lang['earnings']                = 'Earnings';
+$lang['actual']          		 = 'Actual';
+$lang['payable']         		 = 'Payable';
+$lang['deduction']         		 = 'Deduction';
+$lang['Amount']           		 = 'amount';
+$lang['wd']                      = 'WD';
+$lang['wo']            			 = 'WO';
+$lang['ph']                      = 'PH';
+$lang['pd']                      = 'PD';
+$lang['lwp']                     = 'LWP';
+$lang['pl']                      = 'PL';
+$lang['basic']                   = 'Basic';
+$lang['hra']                     = 'HRA';
+$lang['leave_encash']            = 'Leave Encash';
+$lang['produc']                  = 'Produc';
+$lang['conve']                   = 'Conve';
+$lang['transport']               = 'Transport';
+$lang['pf']                      = 'P.F.';
+$lang['esi']                     = 'ESI';
+$lang['pt']                      = 'P.T.';
+$lang['tds']                     = 'TDS';
+$lang['oth_ded']                 = 'Other Ded.';
+$lang['gross_income']            = 'Gross Income';
+$lang['gross_ded']               = 'Gross Ded.';
+$lang['net_amount']              = 'Net Amount';
+$lang['employee']                = 'Employee';
+$lang['month']                   = 'Month';
+$lang['generate_salary_slip']    = 'Generate Salary Slip';
+$lang['export_to_pdf']    		 = 'Export To PDF';
+$lang['computer_generated_text']    = 'This is computer Generated document, this does not require a signature.';
+

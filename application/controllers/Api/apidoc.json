@@ -1,0 +1,13 @@
+{
+    "name": "Samaj",
+    "version": "0.2.0",
+    "title": "Samaj API",
+    "description": "Samaj API example",
+    "url" : "http://localhost/samaj/",
+    "sampleUrl" : "http://localhost/samaj/",
+    "template": {
+        "withCompare": true,
+        "withGenerator": true
+    }
+}
+
